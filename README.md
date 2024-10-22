@@ -4,16 +4,19 @@
 
 <h3><br>Education</h3>
 <ul>
-<li><i>BS Information Technology</i></li>
-  <ul> 
-    <li>New Era University</li>
-    <li>2022-Present</li>
-  </ul>
+  <li><i>BS Information Technology</i></li>
+    <ul> 
+      <li>New Era University</li>
+      <li>2022-Present</li>
+    </ul>
 </ul>
 
 <h3><br>Certifications</h3>
-<a href = "https://cognitiveclass.ai/courses/learn-sql-relational-databases"> First Certificate </a>
-
+<ul> 
+  <li> 
+<a href = "https://courses.cognitiveclass.ai/certificates/49eaf3fe6f284bd3a94c4a8e69d79316"> SQL and Relational Databases 101 </a>
+  </li>
+</ul>
 
 <h3><br>Skill Sets</h3>
 <ul>
