@@ -12,6 +12,7 @@
 </ul>
 
 <h3><br>Certifications</h3>
+<a href = "https://cognitiveclass.ai/courses/learn-sql-relational-databases"> First Certificate </a>
 
 
 <h3><br>Skill Sets</h3>
